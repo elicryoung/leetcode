@@ -1,13 +1,13 @@
 # 🧩 LeetCode Solutions  
 
-This repository contains my solutions to various **LeetCode problems**, written primarily in **Python** and **Java**.  
+This repository contains my solutions to various **LeetCode problems**, written primarily in **Python**.  
 The goal of this repo is to document my problem-solving journey, improve my skills in **data structures & algorithms**, and prepare for **technical interviews**.  
 
 ---
 
 ## 📚 Contents  
 
-- **Languages Used**: Python, Java  
+- **Languages Used**: Python
 - **Problem Categories**:  
   - Arrays & Strings  
   - Linked Lists  
