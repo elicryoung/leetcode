@@ -18,7 +18,24 @@ The goal of this repo is to document my problem-solving journey, improve my skil
   - Hashing & Maps  
 
 Each solution file is named according to the problem title and includes comments explaining the approach.  
+---
 
+## 📁 Example Structure  
+
+Leetcode/
+├─ easy/
+│  └─ Problem Name
+│     ├─ python/solution.py (my solution to the problem)
+│     └─ README.md  (readme with my approach and thought process)
+├─ medium/
+│  └─ Problem Name
+│     ├─ python/solution.py
+│     └─ README.md
+└─ hard/
+   └─ Problem Name
+      ├─ python/solution.py
+      └─ README.md
+      
 ---
 
 ## 🎯 Goals  
