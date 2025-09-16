@@ -22,11 +22,12 @@ Each solution file is named according to the problem title and includes comments
 
 ## 📁 Example Structure  
 
+```text
 Leetcode/
 ├─ easy/
 │  └─ Problem Name
-│     ├─ python/solution.py (my solution to the problem)
-│     └─ README.md  (readme with my approach and thought process)
+│     ├─ python/solution.py   # my solution to the problem
+│     └─ README.md            # my approach and thought process
 ├─ medium/
 │  └─ Problem Name
 │     ├─ python/solution.py
