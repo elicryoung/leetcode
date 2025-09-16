@@ -36,7 +36,7 @@ Leetcode/
    └─ Problem Name
       ├─ python/solution.py
       └─ README.md
-      
+```
 ---
 
 ## 🎯 Goals  
